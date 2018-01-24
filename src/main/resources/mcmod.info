@@ -1,0 +1,16 @@
+[
+{
+  "modid": "torocraft-loot",
+  "name": "Legendary Loot",
+  "description": "Kill things, open chests, get loot",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["torocraft"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
